@@ -148,7 +148,7 @@ TextLabel.BackgroundTransparency = 0.5
 TextLabel.BackgroundColor3 = Color3.new(0,0,0)
 TextLabel.TextColor3 = Color3.new(1,1,1)
 
-task.wait(14400)
+task.wait(1)
 TextLabel:Destroy()
 
 -- ============================
